@@ -54,7 +54,7 @@ Reduced backend load
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Vazeer Shaik**
 
